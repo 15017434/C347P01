@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:text="Read up on materials before class"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="35px"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content"
                 android:text="Arrive on time so as not to miss important part of the lesson"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="35px"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -98,7 +98,7 @@
                 android:layout_height="wrap_content"
                 android:text="Attempt the problem myself"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="35px"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -136,7 +136,7 @@
                 android:layout_height="wrap_content"
                 android:text="My personal reflection today"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="35px"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <EditText
